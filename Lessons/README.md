@@ -10,7 +10,9 @@
 
 
 ## Sesion_04
+### Files: [Sesion _04tablas_C01.xlsx](https://github.com/Omar-I/MSExcel/blob/main/Lessons/Sesion%20_04tablas_C01.xlsx)
 #### Date: July 7, 2021
+#### Description of the activities
 
 - Insertar filas y columnas
 - Mover filas y columnas
